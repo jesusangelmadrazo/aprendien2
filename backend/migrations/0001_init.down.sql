@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS payments;
+DROP TYPE IF EXISTS payment_status;
+DROP TABLE IF EXISTS lesson_offers;
+DROP TYPE IF EXISTS offer_result;
+DROP TABLE IF EXISTS lesson_requests;
+DROP TYPE IF EXISTS lesson_status;
+DROP TABLE IF EXISTS instructor_profiles;
+DROP TYPE IF EXISTS instructor_status;
+DROP TABLE IF EXISTS users;
+DROP TYPE IF EXISTS user_role;

@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS exams;
+DROP TYPE IF EXISTS exam_status;
+DROP TYPE IF EXISTS exam_type;
